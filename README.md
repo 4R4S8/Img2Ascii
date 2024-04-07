@@ -24,6 +24,8 @@ If your project name is Img2Ascii, then just type:
 
 `Img2Ascii <image filename>`
 
+Or you can just drag an image file and drop it on top of `Img2Ascii.exe` program icon.
+
 The converted ANSI art will be shown on console screen, and prompt you to press Enter to quit.
 
 ## License 
