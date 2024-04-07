@@ -183,7 +183,7 @@ internal class Program
     {
         if (args.Length < 1)
         {
-            Console.WriteLine("GIF16 <image file>");
+            Console.WriteLine("Img2Ascii <image filename>");
             return;
         }
         ASASCII(args[0]);
