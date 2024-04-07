@@ -30,4 +30,4 @@ The converted ANSI art will be shown on console screen, and prompt you to press 
 
 ## License 
 
-MIT license appply 
+MIT license apply.
