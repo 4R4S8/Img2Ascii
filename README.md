@@ -6,6 +6,8 @@ Convert image file (including animated GIF) to 16-color ANSI art
 
 ![sunset](Screenshot.png)
 
+![schoolbag](Screenshot2.png)
+
 ## How to build
 
 1. Create a C# Console App project (.NET Framework 4.8, for example)
